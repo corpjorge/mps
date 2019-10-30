@@ -1,5 +1,5 @@
-# AyR-Materias-Primer-Semestre
-Aplicación para la consulta de las materias de primer semestre de la universidad que sirve de apoyo a la inscripción de materias.
+# MPS
+Aplicación para la consulta de las materias, sirve de apoyo a la inscripción de materias.
 
 ## Requisitos:
 

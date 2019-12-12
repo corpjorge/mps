@@ -1,0 +1,15 @@
+.listaMateria{
+    list-style: none;
+}
+.table-action-delete:hover {
+color: #f5365c;
+}
+.table-action-add:hover {
+ color: #5e72e4;
+}
+.btn-borrar{
+    background: none;
+    border: 0;
+    color: inherit;
+    cursor: pointer;
+}
